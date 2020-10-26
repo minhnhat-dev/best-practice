@@ -64,3 +64,22 @@ module.exports = {
     //   }],
   },
 };
+
+// in package.json home directory
+// {
+//   "name": "nhatnguyen",
+//   "version": "1.0.0",
+//   "description": "",
+//   "main": ".eslintrc.js",
+//   "scripts": {
+//     "test": "echo \"Error: no test specified\" && exit 1"
+//   },
+//   "keywords": [],
+//   "author": "",
+//   "license": "ISC",
+//   "devDependencies": {
+//     "eslint": "^7.2.0",
+//     "eslint-config-airbnb-base": "^14.2.0",
+//     "eslint-plugin-import": "^2.22.0"
+//   }
+// }
